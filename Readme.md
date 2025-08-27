@@ -1,5 +1,5 @@
                       /#\
-                     /###\                                             linuxpenguin@github
+                     /###\                                              linuxpenguin@github
                     /#####\                                            --------------------
                    /#######\                                           OS: Arch Linux
                   _ "=######\                                          Model: Dell Inspiron 5558
@@ -17,6 +17,10 @@
       /##########             ##########\                              CPU: i3-4005U @ 1.70GHz
      /##########              ###########\                             GPU: Intel HD Graphics 4400
     /##########                ############\  
+
+<p align="right">
+  <img src="image.png" alt="color palette" width="200"/>
+</p>
 
 
 
